@@ -21,3 +21,5 @@ to avoid its modification by 3rd parties and compromise security
 -auto_startup.sh is conceived for auto-running at system startup, via the distros' own options or using cron
 -manual_conf.sh is conceived for creating a .desktop file at usr/share/applications to use it as a regular desktop
  appliaction or to launch it via a custom keyboard shortcut
+ 
+ Feedback would be very appreciated, feel free of making any suggestions or improvments
