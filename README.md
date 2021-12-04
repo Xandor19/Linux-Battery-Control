@@ -8,9 +8,7 @@ It's higly recommended to own all files to the root user (sudo chown root.root p
 to avoid its modification by 3rd parties and compromise security
 
 # Requirements
--Python 3.*\n
--Tkinter (sudo apt install python3-tk)
--A global environment variable named SUDO_PASS containing the sudo access password
+-Python 3.* with Tkinter (sudo apt install python3-tk) and a global environment variable named SUDO_PASS containing the sudo access password
 
 # Content:
 -auto_startup.sh: Bash Script that runs the automathic charging limit when the system starts, this file
