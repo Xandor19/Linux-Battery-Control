@@ -17,6 +17,9 @@ to avoid its modification by 3rd parties and compromise security
 -interface.py: The Tkinter interface mentioned in the previous line
 -get_env.py: Python Script to get the sudo password from the previous mentioned environment variable
 
+# Setup
+-You must replace in both .sh files the line "path to file" with the path in which you placed the Python scripts 
+
 # Usage
 -auto_startup.sh is conceived for auto-running at system startup, via the distros' own options or using cron
 -manual_conf.sh is conceived for creating a .desktop file at usr/share/applications to use it as a regular desktop
